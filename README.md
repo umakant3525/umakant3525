@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @umakant3525
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning mern stack
