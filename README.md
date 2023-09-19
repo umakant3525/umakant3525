@@ -1,4 +1,4 @@
-# Hey there, I'm Umaknat Shinde! 👋
+# Hey there, I'm Umakant Shinde! 👋
 Welcome to my GitHub profile! I'm excited to share a bit about myself and connect with fellow developers and enthusiasts.
 
 ## About Me
