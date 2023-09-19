@@ -24,4 +24,6 @@ Let's connect and collaborate! Feel free to reach out to me on different platfor
 - [Portfolio](https://elite-interns.co.in/umakantshinde.eliteinternsco.in/)
 - [LinkedIn](https://www.linkedin.com/in/umakant-shinde-22b834252/)
 - [Instagram](https://www.linkedin.com/in/umakant-shinde-22b834252/)
+
+## Thanks
 Thanks for visiting my profile! 🙌
