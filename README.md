@@ -12,10 +12,11 @@ I'm a passionate web developer with a love for creating elegant and efficient so
 I specialize in various technologies and tools, including:
 
 - HTML5 & CSS3 🌐
-- JavaScript 🚀
-- Bootstrap 🚀
-- php 🛠️
-- Mysql 📊
+- Talwind
+- Bootstrap
+- JavaScript 
+- php 
+- Mysql 
 - currently learning MERN stack
 
 ## Connect with Me
