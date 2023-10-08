@@ -18,6 +18,10 @@ I specialize in various technologies and tools, including:
 - php 
 - Mysql 
 - currently learning MERN stack
+- c
+- cpp
+- java
+- python
 
 ## Connect with Me
 Let's connect and collaborate! Feel free to reach out to me on different platforms:
