@@ -11,22 +11,24 @@ I'm a passionate web developer with a love for creating elegant and efficient so
 ## Expertise
 I specialize in various technologies and tools, including:
 
-- HTML5 & CSS3 🌐
+- HTML5 & CSS3 
 - Talwind
 - Bootstrap
-- JavaScript 
+- JavaScript
+- Mysql
+- Mongodb
+- React
+- Redux
+- Express
+- Nodejs
 - php 
-- Mysql 
-- currently learning MERN stack
 - c
 - cpp
-- java
-- python
 
 ## Connect with Me
 Let's connect and collaborate! Feel free to reach out to me on different platforms:
 
-- [Portfolio](https://elite-interns.co.in/umakantshinde.eliteinternsco.in/)
+- [Portfolio](https://umakant3525.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/umakant-shinde-22b834252/)
 - [Instagram](https://www.linkedin.com/in/umakant-shinde-22b834252/)
 
